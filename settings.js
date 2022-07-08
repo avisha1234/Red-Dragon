@@ -22,28 +22,37 @@ global.APIKeys = {
 global.alivemsg = `My name is RED DRAGON🔥
 My Creator is Kumuthu Prabhasha😎` //Costomize Alive Message (type your message in `` )
 
-global.owner = ['+380944814219'] //Owner number in aive msg
-global.premium = ['+380944814219'] //Owner Number info
-global.ownernomer = '+380944814219' //Owner Number <<<
+global.owner = ['+94770440590'] //Owner number in aive msg
+global.premium = ['+94770440590'] //Owner Number info
+global.ownernomer = '+94770440590' //Owner Number <<<
 
 global.ownername = '😎𝙆.𝙋𝙧𝙖𝙗𝙝𝙖𝙨𝙝𝙖' //Owner Name
 global.botname = ' ☬RED༒DRAGON࿐' //Bot Name
 
 global.button = '🤭Youtube📍' //Costomize A Button Name In Alive Message
-global.btnurl = 'https://youtu.be/E5C-lrl_g9I' //Change Your Button's URL
+global.btnurl = 'https://www.youtube.com/channel/UCnE1VWtbQl-cjKGuGbwqZ-g' //Change Your Button's URL
 
 global.region = 'India, South India, Kerala' //Country Region
 
-global.packname = '☬RED༒DRAGON࿐' //Bot Pacage Name
-global.author = '😎𝙆.𝙋𝙧𝙖𝙗𝙝𝙖𝙨𝙝𝙖❯❯' //Author Name
+global.packname = '〖ᴷⁱⁿᴳ INDUWA' //Bot Pacage Name
+global.author = '〖ᴷⁱⁿᴳ INDUWA❯❯' //Author Name
 global.prefa = ['','!','.','😂','❤️','💠'] //Command Prefix eg:(.alive ,alive 😂alive)
 global.sessionName = 'session' //Session Name!
 global.sp = '⭔' //A Charactor
 global.dragonemoji = '🧩' // Menu emoji
-global.footer = '©_Kumuthu.' //In list menu
+global.footer = '៚𝔹𝔸𝔻 𝔹𝔼𝔸ℝ .ೃ࿐🐻.ι𝕝𝕝ι𝕝ι.ι𝕝: 𝑯𝒂𝒍𝒍𝒐 𝑰'𝒎 𝑩𝒐𝒕  °⊰𒆜𖣘➷៚ ͟͟꒰➳֎°•♥️៚𝐁𝐀𝐃 𝐁𝐄𝐀𝐑 🐻
+     
+*.ೃ࿐𝑰'𝒎  𝑶𝒏𝒍𝒊𝒏𝒆 𝒏𝒐𝒘 ˚✪☠️₊· ͟͟➳❥*
+
+▛༒- ҉ ҉══-┻┳══━一( -_･) ︻デ═一 ▸╾━╤デ╦︻( ▀  Ĺ̯ ▀ ├┬┴┬█▓▒░░▒▓██░▒▓█❚█═══════░▒▓█►─═☠️✪0▁▂▄▄▅▆▇██▇▆▅▄▂▁↑❈«——•}₊· ͟͟꒰➳𓆩༄𓆩｡ﾟ❁ུ۪ °™ꪶ࿋๖ۣۜ (♥️‿♥️｡)࿌𒆜༒♬♩♪♩꧁シ☠️
+
+𝐁𝐎𝐓 𝐓𝐄𝐂𝐇𝐍𝐎𝐋𝐎𝐆𝐘 made by〖ᴷⁱⁿᴳ INDUWA 
+
+
+❀ 🄼🄾🅂🅃  🄿🄾🅆🄴🅁🄵🅄🄻  🅂🄿🄰🄼  🄱🄾🅃.' //In list menu
 global.chatbotpre = 'true'  // Chat bot true/false
 
-global.ig = 'https://github.com/prabhasha2006' //Github Account!
+global.ig = 'https://vm.tiktok.com/ZSd34Lauu/?k=1' //Tiktok Account!
 
 global.mess = { // COSTOMIZE WITH YOUR LANGUAGE
 	
